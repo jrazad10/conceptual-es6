@@ -5,5 +5,9 @@
 // const add = (a, b) => a + b;
 // console.log(add(3, 3));
 
-const double = x => x * 2;
-console.log(double(5));
+// const double = x => x * 2;
+// console.log(double(5));
+
+const sayHello = () => ('say hello');
+
+sayHello();
